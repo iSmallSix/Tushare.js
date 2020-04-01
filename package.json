@@ -1,0 +1,25 @@
+{
+  "name": "tushare",
+  "version": "1.0.0",
+  "description": "Tushare for Node.js",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iSmallSix/Tushare.js.git"
+  },
+  "keywords": [
+    "tushare"
+  ],
+  "author": "Addison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iSmallSix/Tushare.js/issues"
+  },
+  "homepage": "https://github.com/iSmallSix/Tushare.js#readme",
+  "dependencies": {
+    "superagent": "^5.2.2"
+  },
+}
