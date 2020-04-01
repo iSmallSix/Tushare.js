@@ -1,20 +1,20 @@
 import request from 'superagent'
 
-  /* TODO
-    1. Missing Exception handling
-   */
+/* TODO
+ * 1. Missing Exception handling
+ */
 
-  
-  /**
-   * @description ...
-   *
-   * @function get
-   * @param {String} apiName
-   * @param {Object} params
-   * @param {String} fields
-   */
 
-   
+/**
+ * @description ...
+ *
+ * @function get
+ * @param {String} apiName
+ * @param {Object} params
+ * @param {String} fields
+ */
+
+
 
 class Tu {
   baseUrl = 'http://api.tushare.pro/'

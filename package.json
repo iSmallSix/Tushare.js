@@ -2,7 +2,7 @@
   "name": "tushare",
   "version": "1.0.0",
   "description": "Tushare for Node.js",
-  "main": "entry.js",
+  "main": "entry.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
